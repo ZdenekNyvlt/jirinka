@@ -3,7 +3,7 @@ T2style {
 }
 
 #id_header {
-	background-color: #285653;
+	background-color: #610e04;
 	margin-bottom: 0;
 	
 	position:absolute;
@@ -14,7 +14,7 @@ T2style {
 }
 
 #id_menu_main {
-	background-color: #3c8890;
+	background-color: #ef7101;
 
 	position:absolute;
 		left:		0px;
@@ -24,7 +24,7 @@ T2style {
 }
 
 #id_menu_local{
-	background-color: #4b8812;
+	background-color: #ff980b;
 	
 	position:absolute;
 		left:		0px;
@@ -44,7 +44,7 @@ T2style {
 }
 
 #id_side_bar{
-	background-color: #4b8812;
+	background-color: #ff980b;
 	
 	position:absolute;
 		left:		650px;
@@ -54,13 +54,21 @@ T2style {
 }
 
 #id_footer{
-	background-color: #71a99b;
+	background-color: #fb5c01;
 
 	position:absolute;
 		left:		0px;
 		top:		480px;
 		width: 	800px;
 		height: 	60px;
-
 }
 
+#id_potrfolio{
+	background-color: #ff980b;
+
+	position:absolute;
+		left:		0px;
+		top:		540px;
+		width: 	800px;
+		height: 	60px;	
+}
