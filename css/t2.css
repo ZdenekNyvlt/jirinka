@@ -1,0 +1,66 @@
+T2style {
+	color: red;
+}
+
+#id_header {
+	background-color: #285653;
+	margin-bottom: 0;
+	
+	position:absolute;
+		left:		0px;
+		top:		0px;
+		width: 	800px;
+		height: 	60px;
+}
+
+#id_menu_main {
+	background-color: #3c8890;
+
+	position:absolute;
+		left:		0px;
+		top:		60px;
+		width: 	800px;
+		height: 	60px;
+}
+
+#id_menu_local{
+	background-color: #4b8812;
+	
+	position:absolute;
+		left:		0px;
+		top:		120px;
+		width: 	150px;
+		height: 	360px;
+}
+
+#id_content{
+	background-color: #88c69c;
+	
+	position:absolute;
+		left:		150px;
+		top:		120px;
+		width: 	500px;
+		height: 	360px;
+}
+
+#id_side_bar{
+	background-color: #4b8812;
+	
+	position:absolute;
+		left:		650px;
+		top:		120px;
+		width: 	150px;
+		height: 	360px;
+}
+
+#id_footer{
+	background-color: #71a99b;
+
+	position:absolute;
+		left:		0px;
+		top:		480px;
+		width: 	800px;
+		height: 	60px;
+
+}
+
